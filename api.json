@@ -1,10 +1,8 @@
 {
-  "category": "MYTHOLOGICAL_CREATURE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/satyr",
     "maintainers": [
       {
@@ -18,453 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "satyr",
     "name": "Satyr",
-    "aliases": [
-      {
-        "name": "Satyrs",
-        "meaning": "Plural form"
-      },
-      {
-        "name": "Satyros",
-        "language": "Ancient Greek",
-        "meaning": "Original Greek form"
-      },
-      {
-        "name": "Satyroi",
-        "language": "Ancient Greek",
-        "meaning": "Original Greek plural"
-      },
-      {
-        "name": "Faun",
-        "region": "Roman",
-        "meaning": "Roman equivalent (technically distinct)"
-      }
-    ],
+    "aliases": [],
     "category": "MYTHOLOGICAL_CREATURE",
-    "subcategory": "Nature Spirit",
+    "subcategory": "of satyrs, though technically a god rather than a nature spirit.",
     "tags": [
-      "greek-mythology",
-      "nature-spirit",
-      "dionysus",
-      "goat",
-      "hedonism",
-      "music",
-      "fertility"
+      "folklore",
+      "mythology"
     ],
-    "status": "mythological",
+    "status": "documented",
     "description": {
-      "summary": "Greek nature spirits with human upper bodies and goat legs, hooves, tails, and horns. Followers of Dionysus known for hedonism, drunkenness, music, and chasing nymphs.",
-      "full": "Satyrs are male nature spirits from Greek mythology, depicted as having human upper bodies combined with the legs, hooves, tail, and horns of goats. They are companions and followers of Dionysus, the god of wine, revelry, and ecstasy. Satyrs are characterized by their hedonistic behavior, including excessive wine-drinking, playing music (particularly pan flutes), dancing, and pursuing nymphs with lustful abandon. They represent uninhibited natural instincts, fertility, and wild sexuality. Famous satyrs include Pan (though often considered a god) and Silenus, the foster father and tutor of Dionysus. In Greek theater, satyr plays were a comic dramatic form featuring choruses of satyrs. The Romans had a similar but distinct creature called the Faun. In Christian tradition, satyrs were demonized and their appearance influenced depictions of devils and Satan with goat-like features."
+      "summary": "Satyrs are characterized by their **hedonistic behavior**, including: They represent uninhibited natural instincts, fertility, and wild sexuality.",
+      "full": "Satyrs are characterized by their **hedonistic behavior**, including: They represent uninhibited natural instincts, fertility, and wild sexuality. Famous satyrs include **Pan** (though often considered a god) and **Silenus**, the foster father and tutor of Dionysus. In Greek theater, **satyr plays** were a comic dramatic form featuring choruses of satyrs, performed after tragic trilogies. The Romans had a similar but distinct creature called the **Faun**. In Christian tradition, satyrs were demonized and their goat-like appearance influenced depictions of devils and Satan."
     },
     "etymology": {
-      "origin": "From Ancient Greek σάτυρος (sátyros), etymology uncertain, possibly pre-Greek",
-      "meaning": "Uncertain, possibly related to sexual terms",
-      "first_use": "Ancient Greek literature and art"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "MYTHOLOGICAL_CREATURE",
-      "type": "Nature Spirit",
-      "subtype": "Human-Goat Hybrid",
-      "variant": "Greek"
+      "type": "of satyrs, though technically a god rather than a nature spirit.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "dionysus",
-        "name": "Dionysus",
-        "relationship": "master",
-        "description": "God of wine whom satyrs follow"
-      },
-      {
-        "id": "pan",
-        "name": "Pan",
-        "relationship": "leader",
-        "description": "Goat-god, sometimes considered chief of satyrs"
-      },
-      {
-        "id": "silenus",
-        "name": "Silenus",
-        "relationship": "elder",
-        "description": "Eldest satyr, tutor of Dionysus"
-      },
-      {
-        "id": "nymph",
-        "name": "Nymph",
-        "relationship": "prey",
-        "description": "Nature spirits pursued by satyrs"
-      },
-      {
-        "id": "faun",
-        "name": "Faun",
-        "relationship": "roman_equivalent",
-        "description": "Similar Roman nature spirit"
-      },
-      {
-        "id": "centaur",
-        "name": "Centaur",
-        "relationship": "similar",
-        "description": "Another Greek human-animal hybrid"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "appearance": {
-        "description": "Human upper body with goat legs, hooves, tail, and horns",
-        "confidence": "mythological"
-      },
-      "features": [
-        {
-          "feature": "Human upper body",
-          "description": "Human torso, arms, and head",
-          "frequency": "always"
-        },
-        {
-          "feature": "Goat legs",
-          "description": "Legs of a goat from waist down",
-          "frequency": "always"
-        },
-        {
-          "feature": "Goat hooves",
-          "description": "Cloven hooves instead of feet",
-          "frequency": "always"
-        },
-        {
-          "feature": "Goat tail",
-          "description": "Short goat tail",
-          "frequency": "always"
-        },
-        {
-          "feature": "Goat horns",
-          "description": "Small horns on head",
-          "frequency": "common"
-        },
-        {
-          "feature": "Pointed ears",
-          "description": "Pointed, animal-like ears",
-          "frequency": "common"
-        },
-        {
-          "feature": "Bearded",
-          "description": "Often depicted with beards",
-          "frequency": "common"
-        },
-        {
-          "feature": "Pug nose",
-          "description": "Snub or upturned nose",
-          "frequency": "common"
-        },
-        {
-          "feature": "Erect phallus",
-          "description": "Frequently depicted with permanent arousal",
-          "frequency": "common"
-        }
-      ],
-      "morphology": "Hybrid creatures with human upper bodies seamlessly transitioning to goat lower bodies. Often depicted as somewhat bestial in facial features."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Musical talent",
-        "description": "Skilled with pan flutes, drums, and other instruments",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Dancing",
-        "description": "Vigorous, ecstatic dancing",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Woodland knowledge",
-        "description": "Understanding of forests and wild places",
-        "frequency": "common",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Wine-making",
-        "description": "Connection to viticulture and wine",
-        "frequency": "common",
-        "evidence_level": "mythological"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "day and night (especially during revelry)",
-      "disposition": "hedonistic, lustful, mischievous",
-      "social_structure": "groups following Dionysus, thiasos (revel band)",
-      "habitat_preference": [
-        "forests",
-        "mountains",
-        "wild places",
-        "vineyards"
-      ],
-      "diet": "Wine, fruits, normal food",
-      "patterns": [
-        "Wine-drinking and drunkenness",
-        "Playing music (pan flutes)",
-        "Dancing ecstatically",
-        "Chasing nymphs",
-        "Revelry and celebration",
-        "Mischief and pranks"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Wild places throughout the Greek mythological world, particularly forests, mountains, and areas associated with Dionysian worship",
-      "continents": ["Mythological Greece"],
-      "regions": [
-        "Forests and woodlands",
-        "Mountains",
-        "Vineyards",
-        "Wild untamed places"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "circa 6th century BCE",
+        "date": "Unknown",
         "circa": true,
-        "source": "Greek vase paintings, literature"
-      },
-      "cultural_period": "Ancient Greek civilization"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Ancient Greek religion and mythology, associated with Dionysian mystery cults and nature worship",
-      "earliest_accounts": "Archaic Greek art and literature, particularly associated with Dionysus",
-      "folklore_connections": "Nature spirits, wild men, fertility deities across cultures."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "circa 6th century BCE",
-        "event": "Early artistic depictions",
-        "significance": "Satyrs appear on Greek vases and in art",
-        "source": "Archaeological evidence"
-      },
-      {
-        "date": "5th century BCE",
-        "event": "Satyr plays established",
-        "significance": "Comic dramatic form featuring satyr choruses becomes standard in Greek theater",
-        "source": "Greek dramatic tradition"
-      },
-      {
-        "date": "5th-4th century BCE",
-        "event": "Classical Greek depictions",
-        "significance": "Satyrs become standard companions of Dionysus in art and literature",
-        "source": "Pottery, sculpture, literature"
-      },
-      {
-        "date": "Hellenistic-Roman period",
-        "event": "Confusion with Fauns",
-        "significance": "Greek satyrs conflated with Roman fauns",
-        "source": "Roman literature and art"
-      },
-      {
-        "date": "Medieval-Renaissance",
-        "event": "Christian demonization",
-        "significance": "Satyr appearance influences devil iconography",
-        "source": "Christian art and theology"
-      },
-      {
-        "date": "Renaissance",
-        "event": "Revival in art",
-        "significance": "Satyrs popular in Renaissance and later European art",
-        "source": "European painting and sculpture"
-      }
-    ],
-    "modern_era": "Satyrs remain popular in fantasy literature, games, and art. Often represent unbridled sexuality, freedom, and connection to nature. Pan's Labyrinth and other modern works draw on satyr imagery."
+    "timeline": []
   },
-
-  "famous_satyrs": {
-    "pan": {
-      "status": "god/satyr-like being",
-      "description": "God of the wild, shepherds, and flocks. Goat-legged, horned, patron of music",
-      "attributes": ["Pan flute inventor", "Pastoral god", "Rustic music"],
-      "significance": "Often considered leader or archetype of satyrs, though technically a god"
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
     },
-    "silenus": {
-      "status": "eldest satyr",
-      "description": "Foster father and tutor of Dionysus, often depicted as older, balding, riding a donkey",
-      "attributes": ["Wisdom (when sober)", "Drunkenness", "Prophecy"],
-      "significance": "Chief of satyrs, wise despite constant intoxication"
-    },
-    "marsyas": {
-      "status": "satyr",
-      "description": "Challenged Apollo to a musical contest and lost",
-      "fate": "Flayed alive by Apollo as punishment",
-      "significance": "Cautionary tale of hubris"
-    }
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
-  "symbolism": {
-    "ancient": [
-      "Uninhibited nature and instincts",
-      "Fertility and sexuality",
-      "Drunkenness and revelry",
-      "Wilderness and untamed nature",
-      "Music and artistic ecstasy",
-      "Comic relief (in satyr plays)"
-    ],
-    "modern": [
-      "Sexual freedom and hedonism",
-      "Connection to nature",
-      "Primal masculine energy",
-      "Dionysian vs. Apollonian dichotomy",
-      "Mischief and trickery"
-    ],
-    "christian": [
-      "Demonization as devils",
-      "Goat features associated with Satan",
-      "Symbol of lust and sin"
-    ]
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Dionysian mystery cults",
-        "Fertility rites",
-        "Wine festivals",
-        "Theatrical satyr plays"
-      ],
-      "stories": [
-        "Satyrs chasing nymphs through forests",
-        "Silenus captured and forced to share wisdom",
-        "Marsyas' musical contest with Apollo",
-        "Satyrs in Dionysus' entourage"
-      ],
-      "beliefs": "Represented primal, uncivilized aspects of human nature, particularly male sexuality and drunkenness."
-    },
-    "ancient_greek": {
-      "significance": "Integral to Dionysian worship and Greek theatrical tradition",
-      "symbolism": [
-        "Wild nature vs. civilization",
-        "Sexual license and fertility",
-        "Comic element in serious drama",
-        "Male lust and desire"
-      ],
-      "theatrical_tradition": "Satyr plays performed after tragic trilogies, providing comic relief with satyr choruses"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "C.S. Lewis's Mr. Tumnus (faun in Narnia)",
-        "Rick Riordan's Percy Jackson series (Grover)",
-        "Pan in Kenneth Grahame's 'The Wind in the Willows'",
-        "Fantasy literature (countless examples)"
-      ],
-      "film_tv": [
-        "Disney's Fantasia (Pastoral Symphony segment)",
-        "Pan's Labyrinth (2006) - Faun character",
-        "The Chronicles of Narnia films",
-        "Percy Jackson films",
-        "Hercules: The Legendary Journeys"
-      ],
-      "art": [
-        "Renaissance paintings (Titian, Rubens, etc.)",
-        "Baroque sculpture",
-        "Victorian fairy painting",
-        "Modern fantasy art"
-      ],
-      "games": [
-        "Dungeons & Dragons (satyr race)",
-        "World of Warcraft",
-        "God of War series",
-        "Hades (Supergiant Games)"
-      ],
-      "music": [
-        "Heavy metal imagery",
-        "Pan flute associations",
-        "Pastoral classical music"
-      ],
-      "other": [
-        "Symbol of male sexuality",
-        "Environmental/nature movements",
-        "Neopagan imagery"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "greek_theater": {
-    "satyr_play": {
-      "description": "Comic dramatic form featuring chorus of satyrs",
-      "function": "Performed after tragic trilogy at dramatic festivals",
-      "purpose": "Comic relief, ribald humor, contrasts with tragedy",
-      "structure": "Mythological burlesque with satyr chorus",
-      "only_surviving_complete_example": "Euripides' Cyclops",
-      "famous_fragments": "Sophocles' Ichneutae (Tracking Satyrs), Aeschylus' satyr plays"
-    }
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "comparison": {
-    "satyr_vs_faun": {
-      "satyr": {
-        "origin": "Greek",
-        "appearance": "More bestial, often ithyphallic, goat legs",
-        "behavior": "Lustful, drunken, wild",
-        "association": "Dionysus"
-      },
-      "faun": {
-        "origin": "Roman",
-        "appearance": "More gentle, human-like, sometimes only goat ears/horns",
-        "behavior": "Pastoral, prophetic, less wild",
-        "association": "Faunus (Roman god)"
-      },
-      "note": "Often conflated in later tradition, but originally distinct"
-    }
-  },
-
-  "sources": [
-    {
-      "id": "euripides-cyclops",
-      "type": "ancient_text",
-      "title": "Cyclops",
-      "authors": ["Euripides"],
-      "date": "circa 408 BCE",
-      "description": "Only complete surviving satyr play"
-    },
-    {
-      "id": "sophocles-ichneutae",
-      "type": "ancient_text",
-      "title": "Ichneutae (Tracking Satyrs)",
-      "authors": ["Sophocles"],
-      "date": "5th century BCE",
-      "description": "Fragmentary satyr play"
-    },
-    {
-      "id": "burkert-1985",
-      "type": "book",
-      "title": "Greek Religion",
-      "authors": ["Walter Burkert"],
-      "publication": "Harvard University Press",
-      "date": "1985",
-      "isbn": "978-0674362802"
-    },
-    {
-      "id": "lissarrague-1990",
-      "type": "book",
-      "title": "The Aesthetics of the Greek Banquet",
-      "authors": ["François Lissarrague"],
-      "publication": "Princeton University Press",
-      "date": "1990",
-      "isbn": "978-0691068602"
-    },
-    {
-      "id": "hedreen-1992",
-      "type": "book",
-      "title": "Silens in Attic Black-figure Vase-painting",
-      "authors": ["Guy Hedreen"],
-      "publication": "University of Michigan Press",
-      "date": "1992",
-      "isbn": "978-0472102778"
-    }
-  ]
+  "sources": []
 }
